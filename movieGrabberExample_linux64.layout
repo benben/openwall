@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="647" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvConstants.h" open="0" top="0" tabpos="0">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxOpenCv/src/ofxCvContourFinder.h" open="0" top="0" tabpos="7">
+		<Cursor position="970" topLine="12" />
+	</File>
+	<File name="../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiButton.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="262" topLine="9" />
+	</File>
+	<File name="../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="702" topLine="6" />
+	</File>
+	<File name="../../../addons/ofxXmlSettings/src/ofxXmlSettings.h" open="0" top="0" tabpos="0">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="src/main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="219" topLine="0" />
+	</File>
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1138" topLine="12" />
+	</File>
+	<File name="src/testApp.h" open="1" top="0" tabpos="3">
+		<Cursor position="978" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
